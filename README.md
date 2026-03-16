@@ -18,9 +18,9 @@ I am a final-year Bachelor of Computer Applications (BCA) student at Bharati Vid
 
 Here are some of the technologies I've been working with:
 
-* **Languages:** Python, JavaScript, HTML5, CSS3, SQL, Java (Basic)
+* **Languages:** Python, JavaScript, HTML5, CSS3, SQL, Java (Basic), PHP
 * **Frontend:** React (Learning), JS, HTML, CSS
-* **Backend:** Node.js (Learning), Express.js (Learning)
+* **Backend:** Node.js (Learning), Express.js (Learning), PHP
 * **Databases:** MongoDB (Learning)
 * **Tools:** Git, GitHub, VS Code
 
