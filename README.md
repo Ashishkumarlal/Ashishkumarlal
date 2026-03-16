@@ -26,9 +26,9 @@ Here are some of the technologies I've been working with:
 
 ---
 
-## 💻 Projects
+## 💻 Dreame House 
 
-*This is a great place to showcase your work! Once you have projects on GitHub, you can link them here.*
+*Dream House is a simple architecture-style website hosted on GitHub Pages that showcases modern house design concepts, interior and exterior design services, and example projects. The website is built using HTML, CSS, and basic front-end technologies and acts as a portfolio for showcasing house design ideas.*
 
 ### 📄 [Project Name 1](link-to-your-project)
 *A brief description of your project. What problem does it solve? What technologies did you use? For example: "A personal portfolio website built with React to showcase my skills and projects."*
