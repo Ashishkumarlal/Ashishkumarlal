@@ -36,16 +36,6 @@
 *Also comfortable with Matplotlib, Seaborn, and foundational statistics/ML*
 
 
-
-### 📈 GitHub Stats
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ashishkumarlal&show_icons=true&theme=default" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashishkumarlal&layout=compact" alt="Top languages" />
-</div>
-
----
-
 ### ⚡ Beyond the Code
 
 🏏 Cricket &nbsp;&nbsp;•&nbsp;&nbsp; 🎮 Valorant
