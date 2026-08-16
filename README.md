@@ -1,49 +1,84 @@
-# Hi there, I'm Ashish Kumar Lal 👋
+<div align="center">
 
-<a href="https://www.linkedin.com/in/ashish-kumarlal/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://leetcode.com/u/Ashish_20/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"></a>
-<a href="mailto:your-ashish472003@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+# Hi there, I'm Ashish 👋
 
+### Aspiring Data Analyst | Turning raw data into clear decisions
 
-## About Me
+![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=520&lines=Data+Analyst+in+the+making;SQL+%7C+Python+%7C+Power+BI;Always+learning%2C+always+building)
 
-I am a final-year Bachelor of Computer Applications (BCA) student at Bharati Vidyapeeth University Institute of Management, passionate about web development and building user-friendly interfaces. I am actively seeking an internship or a full-time role as a Frontend Developer where I can apply my skills and continue to grow.
-
-* 🔭 I’m currently focusing on learning the **MERN Stack** (MongoDB, Express.js, React, Node.js).
-* 🌱 I’m looking to outsource and upgrade my skills in a professional environment.
-* 💬 Ask me about frontend development, web design, or my journey into tech!
-* ⚡ Fun fact: When I'm not coding, I enjoy both indoor and outdoor gaming, and I also love to draw.
+</div>
 
 ---
 
-## 🚀 My Tech Stack
+### 👋 About Me
 
-Here are some of the technologies I've been working with:
-
-* **Languages:** Python, JavaScript, HTML5, CSS3, SQL, Java (Basic), PHP
-* **Frontend:** React (Learning), JS, HTML, CSS
-* **Backend:** Node.js (Learning), Express.js (Learning), PHP
-* **Databases:** MongoDB (Learning)
-* **Tools:** Git, GitHub, VS Code
-
----
-
-## 💻 [DREAM HOUSE](https://ashishkumarlal.github.io/Dream_House/)
-
-*Dream House is a simple architecture-style website hosted on GitHub Pages that showcases modern house design concepts, interior and exterior design services, and example projects. The website is built using HTML, CSS, and basic front-end technologies and acts as a portfolio for showcasing house design ideas.*
+- 🎓 BCA graduate from **Bharati Vidyapeeth Deemed University (IMED), Pune**
+- 📊 Completing the **IBM Data Analyst Professional Certificate** on Coursera
+- 🔭 Actively looking for **Data Analyst / Data Analytics internship** opportunities
+- 🌱 Building hands-on projects in SQL, Python, and Power BI to sharpen real-world skills
+- 📍 Based in Maharashtra, India
+- 💬 Happy to talk data cleaning, EDA, dashboards, or the project below
 
 ---
 
-## 📊 My GitHub Stats
+### 🛠️ Tech Stack
 
-![Ashish's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ashishkumarlal&show_icons=true&theme=radical&hide_border=true&count_private=true)
+**Data Analysis & Visualization**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashishkumarlal&layout=compact&theme=radical&hide_border=true)](https://github.com/Ashishkumarlal)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+*Also comfortable with Matplotlib, Seaborn, and foundational statistics/ML*
+
+**Also Worked With**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ---
 
-## 📫 Get In Touch
+### 🚀 Featured Project
 
-* **LinkedIn:** [https://www.linkedin.com/in/ashish-kumarlal/](https://www.linkedin.com/in/ashish-kumarlal/)
-* **LeetCode:** [https://leetcode.com/u/Ashish_20/](https://leetcode.com/u/Ashish_20/)
-* **Email:** ashish472003@gmail.com
+**[AI-Based Study Planner](#)**
+An AI-powered web app that helps students plan and manage their study schedules.
+- Built with React.js, Node.js, Express, MongoDB, and the OpenAI API
+- Deployed on Vercel / Render
+
+---
+
+### 📈 GitHub Stats
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=default" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact" alt="Top languages" />
+</div>
+
+---
+
+### ⚡ Beyond the Code
+
+🏏 Cricket &nbsp;&nbsp;•&nbsp;&nbsp; 🎮 Valorant
+
+---
+
+### 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](#)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:you@example.com)
+
+<!--
+BEFORE YOU PUBLISH — replace these placeholders:
+1. YOUR-GITHUB-USERNAME (2 spots, under GitHub Stats) → your actual GitHub username
+2. The "#" links for LinkedIn and Kaggle → your real profile URLs
+3. you@example.com → your email address
+4. The "#" next to "AI-Based Study Planner" → your repo link
+To make this appear on your profile page: create a public repo named EXACTLY your GitHub username, then add this file to it as README.md.
+-->
