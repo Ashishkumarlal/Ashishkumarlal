@@ -35,11 +35,6 @@
 
 *Also comfortable with Matplotlib, Seaborn, and foundational statistics/ML*
 
-
-### ⚡ Beyond the Code
-
-🏏 Cricket &nbsp;&nbsp;•&nbsp;&nbsp; 🎮 Valorant
-
 ---
 
 ### 📫 Connect with Me
