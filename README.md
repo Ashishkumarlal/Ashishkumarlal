@@ -17,7 +17,7 @@
 - 🔭 Actively looking for **Data Analyst / Data Analytics internship** opportunities
 - 🌱 Building hands-on projects in SQL, Python, and Power BI to sharpen real-world skills
 - 📍 Based in Maharashtra, India
-- 💬 Happy to talk data cleaning, EDA, dashboards, or the 
+- 💬 Happy to talk data cleaning, EDA, dashboards, or 
 
 ---
 
